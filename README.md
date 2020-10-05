@@ -1,4 +1,5 @@
-# Super_Mario_Sunshine_UHD_Texture_Pack
+#### Forker's Note: This is a WIP fork of the SMS UHD Texture Pack by Quinton Ashley suited to my personal tastes. I will update this readme later.
+### Super_Mario_Sunshine_UHD_Texture_Pack
 
 ## [DOWNLOAD LINK v2.1.1 October 4th 2020](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/releases/latest/download/GMS.7z)
 
