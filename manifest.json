@@ -1,9 +1,9 @@
 {
-  "name": "Super Mario Sunshine UHD",
-  "id" : "super-mario-sunshine-uhd",
-  "version": "2.1.1",
-  "authors": ["qashto", "razius", "The Dolphin Community"],
-  "website": "https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack",
-  "description": "Upscales and retextures for Super Mario Sunshine.",
+  "name": "Super Mario Sunshine Faithful",
+  "id" : "super-mario-sunshine-faithful",
+  "version": "0.9",
+  "authors": ["qashto", "razius", "CheatFreak", "The Dolphin Community"],
+  "website": "https://github.com/cheatfreak47/sms_dolphin_faithful",
+  "description": "CheatFreak's "Faithful" fork of SMSUHD by quashto and razius.",
   "compressed": true
 }
